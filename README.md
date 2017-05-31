@@ -25,7 +25,7 @@ Das Deck enthaelt mehr oder weniger die wichtigsten im Buch erklaerten Thematike
 - Parallele Rechnerarchitekturen
 
 ## Get the book
-[Informationen ueber das Buch](https://g.co/kgs/fjnYLS)
+[Informationen ueber das Buch](https://g.co/kgs/fjnYLS)<br>
 [Informationen ueber den Autor 'Andrew S. Tanenbaum'](https://g.co/kgs/KVYy3h)
 
 ## Get Anki
