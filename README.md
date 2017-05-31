@@ -8,6 +8,7 @@
 
 ## Download Deck
 Die Datei 'Computer Architecture.apkg' enthaelt das Deck mit allen flashcards (auch Bilder enthalten) im _Anki Deck Format_ mit der _.apkg_ Dateiendung. Datei kann [hier](https://github.com/PascalDierich/Rechnerarchitektur-anki-flashcards/blob/master/Computer%20Architecture.apkg) heruntergeladen werden. Die Datei kann in Anki importiert werden:
+<p>
 <img src="https://github.com/jonasjacek/lpic-1-anki-flashcards/blob/master/import-deck.jpg" width=200 alt="Import Deck">
 
 ## Themen
