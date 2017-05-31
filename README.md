@@ -1,5 +1,7 @@
 **[Download Rechnerarchitektur flashcard im Anki Format here.](https://github.com/PascalDierich/Rechnerarchitektur-anki-flashcards/blob/master/Computer%20Architecture.apkg)**
 
+**[Rechnerarchitektur: Von der digitalen Logik zum Parallelrechner](https://g.co/kgs/fjnYLS)**
+
 ---
 
 # Anki flashcards fuer die 6. Auflage von Tanenbaums Werk "Rechnerarchitektur"
@@ -21,6 +23,10 @@ Das Deck enthaelt mehr oder weniger die wichtigsten im Buch erklaerten Thematike
 - Ebene der Betriebssystemmaschine
 - Ebene der Assemblersprache
 - Parallele Rechnerarchitekturen
+
+## Get the book
+[Informationen ueber das Buch](https://g.co/kgs/fjnYLS)
+[Informationen ueber den Autor 'Andrew S. Tanenbaum'](https://g.co/kgs/KVYy3h)
 
 ## Get Anki
 Das Anki flashcard System kann [hier](https://apps.ankiweb.net/) heruntergeladen werden.
